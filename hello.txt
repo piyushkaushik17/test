@@ -3,4 +3,8 @@ Roll no: 102097011
 stream: CSE
 group: CSE8
 
+<<<<<<< HEAD
 updated again in master
+=======
+updated in frontend
+>>>>>>> frontend
